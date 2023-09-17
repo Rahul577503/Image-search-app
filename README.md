@@ -29,5 +29,5 @@ To get started with the Search Image App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Rahul577503/search-image-search-app.git
+   git clone https://github.com/Rahul577503/image-search-app.git
    ```
